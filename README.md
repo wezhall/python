@@ -1,1 +1,1 @@
-# python
+# This repository is dedicated to python exercises and studies
